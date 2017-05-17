@@ -1,0 +1,29 @@
+http://localhost:8080/jaxrsapp/rest/jaxrs/getString
+
+http://localhost:8080/jaxrsapp/rest/jaxrs/getJson
+
+http://localhost:8080/jaxrsapp/rest/jaxrs/getXml
+________________
+
+http://localhost:8080/jaxrsapp/rest/jaxrs/postJson
+Input JSON
+
+{
+  "company": "TSYS",
+  "id": 1,
+  "name": "Prashant"
+}
+
+__________________________
+
+http://localhost:8080/jaxrsapp/rest/jaxrs/postXml
+
+<record>
+    <company>Dell</company>
+    <id>1</id>
+    <name>PG</name>
+</record>
+
+
+
+
